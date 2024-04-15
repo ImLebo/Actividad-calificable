@@ -1,0 +1,10 @@
+Ana Garcia    101    Ingenieria Civil    4.2
+Carlos Lopez    102    Medicina    4.8
+Maria Torres    103    Medicina    3.5
+Pedro Ramirez    104    Economia    3.9
+Luisa Martinez    105    Psicologia    4.1
+Elena Rodriguez    106    Arquitectura    4.0
+Javier Perez    107    Ingenieria Electrica    3.7
+Sofia Fernandez    108    Biologia    4.5
+Diego Herrera    109    Economia    3.8
+Laura Sanchez    110    Psicologia    4.3
