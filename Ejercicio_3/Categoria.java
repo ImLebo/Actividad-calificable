@@ -25,4 +25,10 @@ public class Categoria {
     public void setDescription_category(String description_category) {
         this.description_category = description_category;
     }
+
+    public void mostrarCategoria() {
+        System.out.println("Categoria [Nombre Categoria=" + name_category + ", Descripcion=" + description_category + "]");
+    }
+
+    
 }

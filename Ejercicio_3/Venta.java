@@ -37,4 +37,10 @@ public class Venta {
     public void setFechaVenta(Date fechaVenta) {
         this.fechaVenta = fechaVenta;
     }
+
+    public void mostrarVenta() {
+        System.out.println("Venta [Producto=" + producto.getName() + ", cantidad=" + cantidad + ", fechaVenta=" + fechaVenta + "]");
+    }
+
+    
 }

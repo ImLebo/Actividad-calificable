@@ -36,4 +36,10 @@ public class Proveedor {
         this.address = address;
     }
 
+    public void mostrarProveedor() {
+        System.out.println("Proveedor [Nombre=" + name + ", Telefono=" + phone_number + ", Direccion=" + address + "]");
+    }
+
+    
+
 }

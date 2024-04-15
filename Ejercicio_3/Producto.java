@@ -45,4 +45,10 @@ public class Producto {
     public void setStock(int stock) {
         this.stock = stock;
     }
+
+    public void mostrarProducto() {
+        System.out.println("Producto: [Nombre=" + name + ", Categoria=" + category.getName_category() + ", Precio=" + price + ", Stock=" + stock + "]"); 
+    }
+
+    
 }
